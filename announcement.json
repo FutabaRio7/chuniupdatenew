@@ -1,0 +1,21 @@
+{
+  "images": [
+    "https://cdn.jsdelivr.net/gh/riona5647/chuninews@main/HO13YwNaoAETKjZ.jpg",
+    "https://cdn.jsdelivr.net/gh/riona5647/chuninews@main/HOw-WpDagAA_XOk.jpg",
+    "https://cdn.jsdelivr.net/gh/riona5647/chuninews@main/HOxA4ZCa4AAAJiC.jpg"
+  ]
+  "news": [
+    {
+      "title": "【8/6(木) 『ブルーアーカイブ -Blue Archive-』コラボイベント復活！】",
+      "date": "2026/08/03"
+    },
+    {
+      "title": "riona booter 测试文档",
+      "date": "2026/08/15"
+    },
+    {
+      "title": "【7/30(木)『デジタルアイテムキャンペーン第3弾』スタート！】",
+      "date": "2026/07/30"
+    }
+  ]
+}
